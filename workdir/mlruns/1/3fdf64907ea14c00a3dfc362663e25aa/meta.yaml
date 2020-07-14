@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/3fdf64907ea14c00a3dfc362663e25aa/artifacts
+end_time: 1594208249081
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3fdf64907ea14c00a3dfc362663e25aa
+run_uuid: 3fdf64907ea14c00a3dfc362663e25aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1594208244967
+status: 3
+tags: []
+user_id: ayon
